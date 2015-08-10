@@ -5,4 +5,5 @@ package com.alpsmobi.helloworld;
  */
 public class Hello {
     public static String TEST = "test";
+    public static String Sample = "sample";
 }
